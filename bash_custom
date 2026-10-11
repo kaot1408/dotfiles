@@ -1,0 +1,4 @@
+alias dc='cd'
+alias ll='ls -lah'
+alias gs='git status'
+PS1='\u@\h:\w\$ '
